@@ -2,11 +2,11 @@
 export default defineNuxtConfig({
 	devtools: { enabled: true },
 
-	nitro: {
-		prerender: {
-			routes: [
-				'/en/'
-			]
-		},
-	}
+	// nitro: {
+	// 	prerender: {
+	// 		routes: [
+	// 			'/en/'
+	// 		]
+	// 	},
+	// }
 })
